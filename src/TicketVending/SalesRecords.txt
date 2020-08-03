@@ -1,0 +1,80 @@
+Transaction Time: 02:59:04 PM on Wed, Nov-29-2017
+A BEAUTIFUL MIND                                       Showtime: 10:00 AM
+Discount Time.
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adult(s)                     2                                    $11.00
+---------------------------------------------------------------------
+Total (tax included)                                              $11.98
+Transaction Time: 02:59:16 PM on Wed, Nov-29-2017
+A BEAUTIFUL MIND                                       Showtime: 10:00 AM
+Discount Time.
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adult(s)                     2                                    $11.00
+Child(ren)/Senior(s)         2                                    $11.00
+---------------------------------------------------------------------
+Total (tax included)                                              $23.96
+Transaction Time: 04:50:18 PM on Wed, Nov-29-2017
+FINDING NEMO                                           Showtime: 06:00 PM
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adult(s)                     2                                    $18.00
+---------------------------------------------------------------------
+Total (tax included)                                              $19.60
+Transaction Time: 05:19:23 PM on Wed, Nov-29-2017
+A BEAUTIFUL MIND                                       Showtime: 06:00 PM
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adult(s)                     3                                    $27.00
+---------------------------------------------------------------------
+Total (tax included)                                              $29.40
+Transaction Time: 05:20:03 PM on Wed, Nov-29-2017
+A BEAUTIFUL MIND                                       Showtime: 06:00 PM
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adult(s)                     5                                    $45.00
+---------------------------------------------------------------------
+Total (tax included)                                              $49.00
+Transaction Time: 05:30:17 PM on Wed, Nov-29-2017
+A BEAUTIFUL MIND                                       Showtime: 06:00 PM
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adult(s)                     3                                    $27.00
+---------------------------------------------------------------------
+Total (tax included)                                              $29.40
+Transaction Time: 05:30:19 PM on Wed, Nov-29-2017
+A BEAUTIFUL MIND                                       Showtime: 06:00 PM
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adult(s)                     3                                    $27.00
+Child(ren)/Senior(s)         2                                    $11.00
+---------------------------------------------------------------------
+Total (tax included)                                              $41.38
+Transaction Time: 05:30:23 PM on Wed, Nov-29-2017
+A BEAUTIFUL MIND                                       Showtime: 06:00 PM
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adult(s)                     3                                    $27.00
+Child(ren)/Senior(s)         4                                    $22.00
+---------------------------------------------------------------------
+Total (tax included)                                              $53.36
+Transaction Time: 10:49:07 PM on Wed, Nov-29-2017
+THE IMITATION GAME                                     Showtime: 06:00 PM
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adult(s)                     2                                    $18.00
+---------------------------------------------------------------------
+Total (tax included)                                              $19.60
+Transaction Time: 10:50:59 PM on Wed, Nov-29-2017
+STAR TREK INTO DARKNESS                                Showtime: 03:30 PM
+Discount Time.
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adult(s)                     5                                    $27.50
+Child(ren)/Senior(s)         3                                    $16.50
+---------------------------------------------------------------------
+Total (tax included)                                              $47.92
+Transaction Time: 11:29:27 PM on Wed, Nov-29-2017
+A BEAUTIFUL MIND                                       Showtime: 06:00 PM
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adult(s)                     2                                    $18.00
+---------------------------------------------------------------------
+Total (tax included)                                              $19.60
+Transaction Time: 11:29:29 PM on Wed, Nov-29-2017
+A BEAUTIFUL MIND                                       Showtime: 06:00 PM
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adult(s)                     2                                    $18.00
+Child(ren)/Senior(s)         2                                    $11.00
+---------------------------------------------------------------------
+Total (tax included)                                              $31.58

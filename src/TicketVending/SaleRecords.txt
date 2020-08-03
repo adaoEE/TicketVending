@@ -1,0 +1,277 @@
+Transaction Time: 17:27:40 PM Mon 27-27-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       2                                    $18.00
+---------------------------------------------------------------------
+Total                                                             $18.00
+Transaction Time: 17:27:42 PM Mon 27-27-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       2                                    $18.00
+Child/Senior                 2                                    $11.00
+---------------------------------------------------------------------
+Total                                                             $29.00
+Transaction Time: 17:27:42 PM Mon 27-27-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       2                                    $18.00
+Child/Senior                 2                                    $11.00
+---------------------------------------------------------------------
+Total                                                             $29.00
+Transaction Time: 17:27:44 PM Mon 27-27-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       2                                    $18.00
+Child/Senior                12                                    $66.00
+---------------------------------------------------------------------
+Total                                                             $84.00
+Transaction Time: 17:27:47 PM Mon 27-27-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       2                                    $18.00
+Child/Senior                16                                    $88.00
+---------------------------------------------------------------------
+Total                                                            $106.00
+Transaction Time: 17:31:29 PM Mon 27-31-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       1                                     $9.00
+---------------------------------------------------------------------
+Total                                                              $9.00
+Transaction Time: 17:31:38 PM Mon 27-31-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       1                                     $9.00
+---------------------------------------------------------------------
+Total                                                              $9.00
+Transaction Time: 17:35:28 PM Mon 27-35-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       2                                    $18.00
+---------------------------------------------------------------------
+Total                                                             $18.00
+Transaction Time: 17:35:32 PM Mon 27-35-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       2                                    $18.00
+Child/Senior                 2                                    $11.00
+---------------------------------------------------------------------
+Total                                                             $29.00
+Transaction Time: 17:36:18 PM Mon 27-36-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       1                                     $9.00
+---------------------------------------------------------------------
+Total                                                              $9.00
+Transaction Time: 17:36:22 PM Mon 27-36-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       1                                     $9.00
+Child/Senior                 3                                    $16.50
+---------------------------------------------------------------------
+Total                                                             $25.50
+Transaction Time: 17:36:34 PM Mon 27-36-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       1                                     $9.00
+Child/Senior                 3                                    $16.50
+---------------------------------------------------------------------
+Total                                                             $25.50
+Transaction Time: 17:36:36 PM Mon 27-36-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       1                                     $9.00
+Child/Senior                 3                                    $16.50
+---------------------------------------------------------------------
+Total                                                             $25.50
+Transaction Time: 17:36:36 PM Mon 27-36-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       1                                     $9.00
+Child/Senior                 3                                    $16.50
+---------------------------------------------------------------------
+Total                                                             $25.50
+Transaction Time: 17:36:36 PM Mon 27-36-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       1                                     $9.00
+Child/Senior                 3                                    $16.50
+---------------------------------------------------------------------
+Total                                                             $25.50
+Transaction Time: 17:36:36 PM Mon 27-36-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       1                                     $9.00
+Child/Senior                 3                                    $16.50
+---------------------------------------------------------------------
+Total                                                             $25.50
+Transaction Time: 17:36:37 PM Mon 27-36-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       1                                     $9.00
+Child/Senior                 3                                    $16.50
+---------------------------------------------------------------------
+Total                                                             $25.50
+Transaction Time: 17:36:37 PM Mon 27-36-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       1                                     $9.00
+Child/Senior                 3                                    $16.50
+---------------------------------------------------------------------
+Total                                                             $25.50
+Transaction Time: 17:36:37 PM Mon 27-36-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       1                                     $9.00
+Child/Senior                 3                                    $16.50
+---------------------------------------------------------------------
+Total                                                             $25.50
+Transaction Time: 17:36:43 PM Mon 27-36-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       1                                     $9.00
+Child/Senior                 3                                    $16.50
+---------------------------------------------------------------------
+Total                                                             $25.50
+Transaction Time: 17:36:43 PM Mon 27-36-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       1                                     $9.00
+Child/Senior                 3                                    $16.50
+---------------------------------------------------------------------
+Total                                                             $25.50
+Transaction Time: 17:36:44 PM Mon 27-36-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       1                                     $9.00
+Child/Senior                 3                                    $16.50
+---------------------------------------------------------------------
+Total                                                             $25.50
+Transaction Time: 17:36:44 PM Mon 27-36-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       1                                     $9.00
+Child/Senior                 3                                    $16.50
+---------------------------------------------------------------------
+Total                                                             $25.50
+Transaction Time: 17:36:44 PM Mon 27-36-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       1                                     $9.00
+Child/Senior                 3                                    $16.50
+---------------------------------------------------------------------
+Total                                                             $25.50
+Transaction Time: 17:36:45 PM Mon 27-36-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       1                                     $9.00
+Child/Senior                 3                                    $16.50
+---------------------------------------------------------------------
+Total                                                             $25.50
+Transaction Time: 17:36:45 PM Mon 27-36-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       1                                     $9.00
+Child/Senior                 3                                    $16.50
+---------------------------------------------------------------------
+Total                                                             $25.50
+Transaction Time: 17:36:45 PM Mon 27-36-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       1                                     $9.00
+Child/Senior                 3                                    $16.50
+---------------------------------------------------------------------
+Total                                                             $25.50
+Transaction Time: 17:36:45 PM Mon 27-36-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       1                                     $9.00
+Child/Senior                 3                                    $16.50
+---------------------------------------------------------------------
+Total                                                             $25.50
+Transaction Time: 17:36:45 PM Mon 27-36-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       1                                     $9.00
+Child/Senior                 3                                    $16.50
+---------------------------------------------------------------------
+Total                                                             $25.50
+Transaction Time: 17:36:45 PM Mon 27-36-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       1                                     $9.00
+Child/Senior                 3                                    $16.50
+---------------------------------------------------------------------
+Total                                                             $25.50
+Transaction Time: 17:36:46 PM Mon 27-36-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       1                                     $9.00
+Child/Senior                 3                                    $16.50
+---------------------------------------------------------------------
+Total                                                             $25.50
+Transaction Time: 17:36:46 PM Mon 27-36-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       1                                     $9.00
+Child/Senior                 3                                    $16.50
+---------------------------------------------------------------------
+Total                                                             $25.50
+Transaction Time: 17:36:46 PM Mon 27-36-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       1                                     $9.00
+Child/Senior                 3                                    $16.50
+---------------------------------------------------------------------
+Total                                                             $25.50
+Transaction Time: 17:36:46 PM Mon 27-36-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       1                                     $9.00
+Child/Senior                 3                                    $16.50
+---------------------------------------------------------------------
+Total                                                             $25.50
+Transaction Time: 17:36:46 PM Mon 27-36-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       1                                     $9.00
+Child/Senior                 3                                    $16.50
+---------------------------------------------------------------------
+Total                                                             $25.50
+Transaction Time: 17:36:48 PM Mon 27-36-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       1                                     $9.00
+Child/Senior                 3                                    $16.50
+---------------------------------------------------------------------
+Total                                                             $25.50
+Transaction Time: 17:36:48 PM Mon 27-36-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       1                                     $9.00
+Child/Senior                 3                                    $16.50
+---------------------------------------------------------------------
+Total                                                             $25.50
+Transaction Time: 17:36:49 PM Mon 27-36-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       1                                     $9.00
+Child/Senior                 3                                    $16.50
+---------------------------------------------------------------------
+Total                                                             $25.50
+Transaction Time: 17:36:49 PM Mon 27-36-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       1                                     $9.00
+Child/Senior                 3                                    $16.50
+---------------------------------------------------------------------
+Total                                                             $25.50
+Transaction Time: 17:36:49 PM Mon 27-36-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       1                                     $9.00
+Child/Senior                 3                                    $16.50
+---------------------------------------------------------------------
+Total                                                             $25.50
+Transaction Time: 17:36:49 PM Mon 27-36-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       1                                     $9.00
+Child/Senior                 3                                    $16.50
+---------------------------------------------------------------------
+Total                                                             $25.50
+Transaction Time: 17:36:49 PM Mon 27-36-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       1                                     $9.00
+Child/Senior                 3                                    $16.50
+---------------------------------------------------------------------
+Total                                                             $25.50
+Transaction Time: 17:36:50 PM Mon 27-36-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       1                                     $9.00
+Child/Senior                 3                                    $16.50
+---------------------------------------------------------------------
+Total                                                             $25.50
+Transaction Time: 17:36:53 PM Mon 27-36-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       1                                     $9.00
+Child/Senior                 3                                    $16.50
+---------------------------------------------------------------------
+Total                                                             $25.50
+Transaction Time: 17:36:53 PM Mon 27-36-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       1                                     $9.00
+Child/Senior                 3                                    $16.50
+---------------------------------------------------------------------
+Total                                                             $25.50
+Transaction Time: 17:36:54 PM Mon 27-36-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       1                                     $9.00
+Child/Senior                 3                                    $16.50
+---------------------------------------------------------------------
+Total                                                             $25.50
+Transaction Time: 17:37:15 PM Mon 27-37-2017
+Type of Tickets--------------Number of Tickets--------------------Amount
+Adults                       1                                     $9.00
+Child/Senior                 2                                    $11.00
+---------------------------------------------------------------------
+Total                                                             $20.00
