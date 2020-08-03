@@ -1,0 +1,2 @@
+# TicketVending
+This is the Ticket Vending GUI for choices, selections, and  * output of the bill for purchasing movie tickets. The application simulates a  * ticket vending operation at a theater. Required movie input from a JComboBox  * and number of adults or children/seniors to calculate bill. The Paradise  * theater have two ticket prices – a regular price $9.00 and a matinee discount  * price $5.50 for early show times. Children under 10 and seniors receive the  * matinee price for all show times. All tickets are taxed at a current rate of  * 8.9% sales tax.
